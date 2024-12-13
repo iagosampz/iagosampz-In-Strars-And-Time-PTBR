@@ -13,4 +13,4 @@
   <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=white&style=for-the-badge"/></p>
 
 [![pt-BR](https://img.shields.io/badge/lang-pt--BR-black.svg)](./README.md)
-[![en](https://img.shields.io/badge/lang-en-white.svg)](./README.md)
+[![en](https://img.shields.io/badge/lang-en-white.svg)](./READMEE.md)
