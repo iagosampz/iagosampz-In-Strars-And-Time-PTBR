@@ -4,7 +4,7 @@
 
 <img src="https://github.com/iagosampz/iagosampz-In-Strars-And-Time-PTBR/blob/main/icon_scaled_40x_pngcrushed.png?raw=true" width="144"/>
   
-  <h1 align="center">IN-STARS-AND-TIME-PTBR</h1>
+  <h1 align="center">IN-STARS-AND-TIME-PT-BR</h1>
 
   <p align="center">
     <strong>uma traduçao feita por fã do jogo in strars and time ☕</strong>
